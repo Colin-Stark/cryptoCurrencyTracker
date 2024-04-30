@@ -1,0 +1,24 @@
+{
+    "particles": {
+        "number": {
+            "value": 65,
+            "density": {
+                "enable": true,
+                "value_area": 800
+            }
+        },
+        "color": {
+            "value": "#04AA6D"
+        },
+        "line_linked": {
+            "enable": true,
+            "distance": 300,
+            "color": "#04AA6D",
+            "opacity": 0.4,
+            "width": 2
+        },
+        "size": {
+            "value": 3
+        }
+    }
+}
